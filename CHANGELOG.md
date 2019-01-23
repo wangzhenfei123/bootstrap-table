@@ -1,6 +1,14 @@
 ChangeLog
 ---------
 
+###
+
+- **New(js):** Supported full table classes of bootstrap v4.
+- **New(css):** Rewrited bootstrap-table.css to scss.
+- **Remove(js):** Removed `striped` option and use classes instead.
+- **Update:** Fixed `locale` option bug.
+- **Update:** Fixed `sortClass` option bug.
+
 ### 1.13.2
 
 - **New(js):** Added `paginationSuccessivelySize`, `paginationPagesBySide` and `paginationUseIntermediate` pagination options.
